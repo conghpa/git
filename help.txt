@@ -1,1 +1,2 @@
 -git push help.txt
+-git commit -m "Add"
