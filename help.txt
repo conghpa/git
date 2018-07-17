@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 -git push help.txt
 -git commit -m "Add"
 d
+=======
+>>>>>>> parent of 2b972ef... Update help.txt
